@@ -1,0 +1,3 @@
+C:/Users/Edgar/Desktop/Tec_de_Monterrey/Semestre 3/Programacion de estructuras de datos y algoridmos fundamentales/Actividad_14/cmake-build-debug/CMakeFiles/Actividad_14.dir
+C:/Users/Edgar/Desktop/Tec_de_Monterrey/Semestre 3/Programacion de estructuras de datos y algoridmos fundamentales/Actividad_14/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Edgar/Desktop/Tec_de_Monterrey/Semestre 3/Programacion de estructuras de datos y algoridmos fundamentales/Actividad_14/cmake-build-debug/CMakeFiles/rebuild_cache.dir

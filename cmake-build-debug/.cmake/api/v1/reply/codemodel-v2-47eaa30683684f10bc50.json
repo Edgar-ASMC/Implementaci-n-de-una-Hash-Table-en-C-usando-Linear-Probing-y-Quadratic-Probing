@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Actividad_14",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Actividad_14::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Actividad_14-Debug-19277ef0b941f4dd237f.json",
+					"name" : "Actividad_14",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Edgar/Desktop/Tec_de_Monterrey/Semestre 3/Programacion de estructuras de datos y algoridmos fundamentales/Actividad_14/cmake-build-debug",
+		"source" : "C:/Users/Edgar/Desktop/Tec_de_Monterrey/Semestre 3/Programacion de estructuras de datos y algoridmos fundamentales/Actividad_14"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
